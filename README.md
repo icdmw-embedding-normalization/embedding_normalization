@@ -1,6 +1,6 @@
 # Embedding Normalization
 
-* The pytorch implementation for "Embedding Normalization: Significance Preserving Feature Normalization for Click-Through Rate Prediction" submitted to KDD'21.
+* The pytorch implementation for "Embedding Normalization: Significance Preserving Feature Normalization for Click-Through Rate Prediction" submitted to CIKM'21.
 * Codes are forked from [pytorch-fm](https://rixwew.github.io/pytorch-fm/) and slightly modified for our purpose.
 
 ## Environments
